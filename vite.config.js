@@ -10,5 +10,5 @@ export default defineConfig({
       overlay: true,
     },
   },
-   base: 'https://github.com/Rifat429/Portfolio', 
+   base: '/Portfolio', 
 })
